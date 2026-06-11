@@ -1,5 +1,8 @@
 # Path-Finding
 
+<img width="1920" height="1080" alt="PathFinder" src="https://github.com/user-attachments/assets/959bef6f-7118-4fd6-ade8-853f450ebbfa" />
+
+
 **Use**:
 
 Left click to set down walls, start and end. The first two clicks represent the start and the end nodes, the rest are walls.
